@@ -20,4 +20,7 @@ git checkout branch_name        // to move to the new branch
 
 git merge branch_name           // obviously to merge the branches
 
+
+just trying
+
 git config --local credential.helper ""    // any account already logged in
