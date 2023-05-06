@@ -20,6 +20,8 @@ git checkout branch_name        // to move to the new branch
 
 git merge branch_name           // obviously to merge the branches
 
+git reset HEAD <filename>      // reset command resets the INDEX or STAGING AREA to previous commit
+
 git config --local credential.helper ""    // any account already logged in
 
 git config --global core.autocrlf true    //This will configure Git to use consistent line endings for all files in your repository.
